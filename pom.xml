@@ -11,6 +11,7 @@
     <modules>
         <module>camel-example-blueprint</module>
         <module>camel-example-features</module>
+        <module>camel-typeconverter-example</module>
     </modules>
     <properties>
         <camel.version>2.15.1.redhat-620133</camel.version>
